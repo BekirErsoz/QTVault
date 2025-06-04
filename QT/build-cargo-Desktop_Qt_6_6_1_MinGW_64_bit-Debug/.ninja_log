@@ -1,0 +1,24 @@
+# ninja log v5
+4	73	0	C:/Users/bekir/OneDrive/Belgeler/build-cargo-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	933e553601a1c857
+2	1411	7257517294100995	cargo_autogen/timestamp	da511dd57372862c
+2	1411	7257517294100995	cargo_autogen/mocs_compilation.cpp	da511dd57372862c
+2	1411	7257517294100995	C:/Users/bekir/OneDrive/Belgeler/build-cargo-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/cargo_autogen/timestamp	da511dd57372862c
+2	1411	7257517294100995	C:/Users/bekir/OneDrive/Belgeler/build-cargo-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/cargo_autogen/mocs_compilation.cpp	da511dd57372862c
+1411	5620	7257517337504752	CMakeFiles/cargo.dir/cargo_autogen/mocs_compilation.cpp.obj	408e0a9dedb8906c
+1422	5825	7257517340004546	CMakeFiles/cargo.dir/mainwindow.cpp.obj	7fb695c860877dba
+2	43	0	C:/Users/bekir/OneDrive/Belgeler/build-cargo-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	933e553601a1c857
+17	777	7257518068109438	cargo_autogen/timestamp	da511dd57372862c
+17	777	7257518068109438	cargo_autogen/mocs_compilation.cpp	da511dd57372862c
+17	777	7257518068109438	C:/Users/bekir/OneDrive/Belgeler/build-cargo-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/cargo_autogen/timestamp	da511dd57372862c
+17	777	7257518068109438	C:/Users/bekir/OneDrive/Belgeler/build-cargo-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/cargo_autogen/mocs_compilation.cpp	da511dd57372862c
+791	3592	7257518096206465	CMakeFiles/cargo.dir/mainwindow.cpp.obj	7fb695c860877dba
+2	42	0	C:/Users/bekir/OneDrive/Belgeler/build-cargo-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	933e553601a1c857
+19	735	7257526326565441	cargo_autogen/timestamp	da511dd57372862c
+19	735	7257526326565441	cargo_autogen/mocs_compilation.cpp	da511dd57372862c
+19	735	7257526326565441	C:/Users/bekir/OneDrive/Belgeler/build-cargo-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/cargo_autogen/timestamp	da511dd57372862c
+19	735	7257526326565441	C:/Users/bekir/OneDrive/Belgeler/build-cargo-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/cargo_autogen/mocs_compilation.cpp	da511dd57372862c
+739	4458	7257526363759810	CMakeFiles/cargo.dir/mainwindow.cpp.obj	7fb695c860877dba
+745	4767	7257526366761567	CMakeFiles/cargo.dir/main.cpp.obj	b5d5ad83c2e57239
+4768	5069	7257526369826752	cargo.exe	fdfe95a2762f4e4b
+2	42	0	C:/Users/bekir/OneDrive/Belgeler/build-cargo-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	933e553601a1c857
+3	59	0	C:/Users/bekir/OneDrive/Belgeler/build-cargo-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	933e553601a1c857

@@ -1,0 +1,10 @@
+# ninja log v5
+3	178	0	C:/Users/bekir/OneDrive/Belgeler/build-proje-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	512628d8060b39d3
+3	1976	7258226002205622	proje_autogen/timestamp	579f4d06f6d03112
+3	1976	7258226002205622	proje_autogen/mocs_compilation.cpp	579f4d06f6d03112
+3	1976	7258226002205622	C:/Users/bekir/OneDrive/Belgeler/build-proje-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/proje_autogen/timestamp	579f4d06f6d03112
+3	1976	7258226002205622	C:/Users/bekir/OneDrive/Belgeler/build-proje-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/proje_autogen/mocs_compilation.cpp	579f4d06f6d03112
+1994	8379	7258226068892032	CMakeFiles/proje.dir/mainwindow.cpp.obj	167d181e7bdd0883
+1977	8580	7258226071063038	CMakeFiles/proje.dir/proje_autogen/mocs_compilation.cpp.obj	866ccc360d81d060
+1985	9252	7258226077778772	CMakeFiles/proje.dir/main.cpp.obj	44c8bd6913b06d4
+9253	9957	7258226084712338	proje.exe	a46710928ade38aa

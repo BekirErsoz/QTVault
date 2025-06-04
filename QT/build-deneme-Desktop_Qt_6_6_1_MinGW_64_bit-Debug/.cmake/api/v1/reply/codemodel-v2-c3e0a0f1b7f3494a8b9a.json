@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-6278ba386bc2812ef6dc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "deneme",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "deneme::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-deneme-Debug-9e6cad12d8d77e98104a.json",
+					"name" : "deneme",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "deneme_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-deneme_autogen-Debug-2d486425b353de635eb9.json",
+					"name" : "deneme_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "deneme_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-deneme_autogen_timestamp_deps-Debug-d2275f0394a3c98f0b8f.json",
+					"name" : "deneme_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/bekir/OneDrive/Belgeler/build-deneme-Desktop_Qt_6_6_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/bekir/OneDrive/Belgeler/deneme"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,13 @@
+# ninja log v5
+3	58	0	C:/Users/bekir/OneDrive/Belgeler/build-cvhncn-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	fc3769f614ec49aa
+2	1055	7258235370977655	cvhncn_autogen/timestamp	65bdd2449123bc9a
+2	1055	7258235370977655	cvhncn_autogen/mocs_compilation.cpp	65bdd2449123bc9a
+2	1055	7258235370977655	C:/Users/bekir/OneDrive/Belgeler/build-cvhncn-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/cvhncn_autogen/timestamp	65bdd2449123bc9a
+2	1055	7258235370977655	C:/Users/bekir/OneDrive/Belgeler/build-cvhncn-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/cvhncn_autogen/mocs_compilation.cpp	65bdd2449123bc9a
+1061	4855	7258235410317340	CMakeFiles/cvhncn.dir/main.cpp.obj	170b06c86409066b
+1067	5630	7258235418059307	CMakeFiles/cvhncn.dir/mainwindow.cpp.obj	6b2604280399c10a
+1055	5809	7258235419878001	CMakeFiles/cvhncn.dir/cvhncn_autogen/mocs_compilation.cpp.obj	59fbccf751ff1b9
+5810	6086	7258235422600133	cvhncn.exe	56753c50873e087f
+3	40	0	C:/Users/bekir/OneDrive/Belgeler/build-cvhncn-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	fc3769f614ec49aa
+2	39	0	C:/Users/bekir/OneDrive/Belgeler/build-cvhncn-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	fc3769f614ec49aa
+5	109	0	C:/Users/bekir/OneDrive/Belgeler/build-cvhncn-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	fc3769f614ec49aa

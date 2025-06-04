@@ -1,0 +1,11 @@
+# ninja log v5
+5	87	0	C:/Users/bekir/OneDrive/Belgeler/build-untitled1-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	987ec9516c1eb24d
+3	1934	7260677851047518	untitled1_autogen/timestamp	cf5f0dc41922b32d
+3	1934	7260677851047518	untitled1_autogen/mocs_compilation.cpp	cf5f0dc41922b32d
+3	1934	7260677851047518	C:/Users/bekir/OneDrive/Belgeler/build-untitled1-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/untitled1_autogen/timestamp	cf5f0dc41922b32d
+3	1934	7260677851047518	C:/Users/bekir/OneDrive/Belgeler/build-untitled1-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/untitled1_autogen/mocs_compilation.cpp	cf5f0dc41922b32d
+1951	6874	7260677902708262	CMakeFiles/untitled1.dir/mainwindow.cpp.obj	3408d263ecdcfce4
+1935	7126	7260677905224798	CMakeFiles/untitled1.dir/untitled1_autogen/mocs_compilation.cpp.obj	d07e9605f12dedd1
+1943	7325	7260677907226763	CMakeFiles/untitled1.dir/main.cpp.obj	8b9af571d688cf28
+7326	7945	7260677913490491	untitled1.exe	dd47a11b684e7774
+4	49	0	C:/Users/bekir/OneDrive/Belgeler/build-untitled1-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	987ec9516c1eb24d

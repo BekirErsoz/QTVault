@@ -1,0 +1,36 @@
+import bluetooth
+
+def receive_data():
+    server_socket = bluetooth.BluetoothSocket(bluetooth.RFCOMM)
+    server_socket.bind(("", bluetooth.PORT_ANY))
+    server_socket.listen(1)
+
+    print("Bluetooth dinleniyor...")
+
+    port = server_socket.getsockname()[1]
+
+    bluetooth.advertise_service(server_socket, "SampleServer",
+                                service_id=uuid.uuid1(),
+                                service_classes=[uuid.uuid1(), bluetooth.SERIAL_PORT_CLASS],
+                                profiles=[bluetooth.SERIAL_PORT_PROFILE])
+
+    print("Cihaz keşfedilmeyi bekliyor. Port:", port)
+
+    client_socket, address = server_socket.accept()
+    print("Bağlantı alındı:", address)
+
+    try:
+        while True:
+            data = client_socket.recv(1024)
+            if not data:
+                break
+            print("Alınan veri:", data.decode('utf-8'))
+    except OSError:
+        pass
+
+    print("Bağlantı kapatılıyor...")
+    client_socket.close()
+    server_socket.close()
+
+if __name__ == "__main__":
+    receive_data()

@@ -1,0 +1,10 @@
+# ninja log v5
+3	51	0	C:/Users/bekir/OneDrive/Belgeler/build-OOP-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	b5e97ec20edc60cf
+1	1058	7257659224176255	OOP_autogen/timestamp	252cba675bab5342
+1	1058	7257659224176255	OOP_autogen/mocs_compilation.cpp	252cba675bab5342
+1	1058	7257659224176255	C:/Users/bekir/OneDrive/Belgeler/build-OOP-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/OOP_autogen/timestamp	252cba675bab5342
+1	1058	7257659224176255	C:/Users/bekir/OneDrive/Belgeler/build-OOP-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/OOP_autogen/mocs_compilation.cpp	252cba675bab5342
+1064	4538	7257659260433198	CMakeFiles/OOP.dir/OOP_autogen/mocs_compilation.cpp.obj	61c24fb975fb1838
+1070	4685	7257659261853576	CMakeFiles/OOP.dir/mainwindow.cpp.obj	1cc49b4f8a8ed4b0
+1058	4997	7257659264957902	CMakeFiles/OOP.dir/main.cpp.obj	8c3596c33a6b51be
+4998	5311	7257659268063489	OOP.exe	f29cf4ee2533f341

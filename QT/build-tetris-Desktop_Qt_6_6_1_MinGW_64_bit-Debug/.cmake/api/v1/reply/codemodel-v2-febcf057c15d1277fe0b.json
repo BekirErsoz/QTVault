@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f30112dbf0d781e2f410.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "tetris",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "tetris::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tetris-Debug-bce847079437005f2aa4.json",
+					"name" : "tetris",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tetris_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tetris_autogen-Debug-e833393f77876f7df845.json",
+					"name" : "tetris_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tetris_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tetris_autogen_timestamp_deps-Debug-9fe34131a4e67122fcc2.json",
+					"name" : "tetris_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/bekir/OneDrive/Belgeler/build-tetris-Desktop_Qt_6_6_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/bekir/OneDrive/Belgeler/tetris"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

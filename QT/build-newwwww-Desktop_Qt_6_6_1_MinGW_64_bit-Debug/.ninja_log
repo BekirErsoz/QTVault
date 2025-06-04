@@ -1,0 +1,19 @@
+# ninja log v5
+4	63	0	C:/Users/bekir/OneDrive/Belgeler/build-newwwww-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	6355504bcc1e0f4
+3	1429	7258251351545736	newwwww_autogen/timestamp	60090f42714f8459
+3	1429	7258251351545736	newwwww_autogen/mocs_compilation.cpp	60090f42714f8459
+3	1429	7258251351545736	C:/Users/bekir/OneDrive/Belgeler/build-newwwww-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/newwwww_autogen/timestamp	60090f42714f8459
+3	1429	7258251351545736	C:/Users/bekir/OneDrive/Belgeler/build-newwwww-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/newwwww_autogen/mocs_compilation.cpp	60090f42714f8459
+1448	7290	7258251412660802	CMakeFiles/newwwww.dir/mainwindow.cpp.obj	7895e67adb02aad4
+1430	7430	7258251413964305	CMakeFiles/newwwww.dir/newwwww_autogen/mocs_compilation.cpp.obj	3504e9f506bb6b79
+1440	7890	7258251418649639	CMakeFiles/newwwww.dir/main.cpp.obj	86a4a5894938d9ee
+7891	8427	7258251423997636	newwwww.exe	a0f864f5ef8fa64
+3	64	0	C:/Users/bekir/OneDrive/Belgeler/build-newwwww-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	6355504bcc1e0f4
+3	47	0	C:/Users/bekir/OneDrive/Belgeler/build-newwwww-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	6355504bcc1e0f4
+2	34	0	C:/Users/bekir/OneDrive/Belgeler/build-newwwww-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	6355504bcc1e0f4
+2	50	0	C:/Users/bekir/OneDrive/Belgeler/build-newwwww-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	6355504bcc1e0f4
+4	50	0	C:/Users/bekir/OneDrive/Belgeler/build-newwwww-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	6355504bcc1e0f4
+3	44	0	C:/Users/bekir/OneDrive/Belgeler/build-newwwww-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	6355504bcc1e0f4
+2	40	0	C:/Users/bekir/OneDrive/Belgeler/build-newwwww-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	6355504bcc1e0f4
+5	87	0	C:/Users/bekir/OneDrive/Belgeler/build-newwwww-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	6355504bcc1e0f4
+2	36	0	C:/Users/bekir/OneDrive/Belgeler/build-newwwww-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	6355504bcc1e0f4

@@ -1,0 +1,23 @@
+# ninja log v5
+3	71	0	C:/Users/bekir/OneDrive/Belgeler/build-tetris-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	c827e2ed008fa920
+2	1197	7257508796527548	tetris_autogen/timestamp	69d15dcc2b436c7c
+2	1197	7257508796527548	tetris_autogen/mocs_compilation.cpp	69d15dcc2b436c7c
+2	1197	7257508796527548	C:/Users/bekir/OneDrive/Belgeler/build-tetris-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/tetris_autogen/timestamp	69d15dcc2b436c7c
+2	1197	7257508796527548	C:/Users/bekir/OneDrive/Belgeler/build-tetris-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/tetris_autogen/mocs_compilation.cpp	69d15dcc2b436c7c
+1229	6078	7257508846901340	CMakeFiles/tetris.dir/mainwindow.cpp.obj	8096519574174810
+1216	6122	7257508847320690	CMakeFiles/tetris.dir/main.cpp.obj	3dd1f5a95208b21a
+1197	6874	7257508854943660	CMakeFiles/tetris.dir/tetris_autogen/mocs_compilation.cpp.obj	d3f6ba232f4c5cbb
+6875	7553	7257508861653690	tetris.exe	a00a28eeab98883a
+1	37	0	C:/Users/bekir/OneDrive/Belgeler/build-tetris-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	c827e2ed008fa920
+2	39	0	C:/Users/bekir/OneDrive/Belgeler/build-tetris-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	c827e2ed008fa920
+10	220	7257512025283569	tetris_autogen/timestamp	69d15dcc2b436c7c
+10	220	7257512025283569	tetris_autogen/mocs_compilation.cpp	69d15dcc2b436c7c
+10	220	7257512025283569	C:/Users/bekir/OneDrive/Belgeler/build-tetris-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/tetris_autogen/timestamp	69d15dcc2b436c7c
+10	220	7257512025283569	C:/Users/bekir/OneDrive/Belgeler/build-tetris-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/tetris_autogen/mocs_compilation.cpp	69d15dcc2b436c7c
+224	3367	7257512056729977	CMakeFiles/tetris.dir/mainwindow.cpp.obj	8096519574174810
+2	37	0	C:/Users/bekir/OneDrive/Belgeler/build-tetris-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	c827e2ed008fa920
+20	234	7257512941842555	tetris_autogen/timestamp	69d15dcc2b436c7c
+20	234	7257512941842555	tetris_autogen/mocs_compilation.cpp	69d15dcc2b436c7c
+20	234	7257512941842555	C:/Users/bekir/OneDrive/Belgeler/build-tetris-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/tetris_autogen/timestamp	69d15dcc2b436c7c
+20	234	7257512941842555	C:/Users/bekir/OneDrive/Belgeler/build-tetris-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/tetris_autogen/mocs_compilation.cpp	69d15dcc2b436c7c
+238	3337	7257512972852005	CMakeFiles/tetris.dir/mainwindow.cpp.obj	8096519574174810

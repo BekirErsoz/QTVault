@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-fc104b01e6b22ae70168.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "cvhncn",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "cvhncn::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cvhncn-Debug-03c662e4061ccdbcdda5.json",
+					"name" : "cvhncn",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cvhncn_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cvhncn_autogen-Debug-bc107c133228f2e9cde6.json",
+					"name" : "cvhncn_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cvhncn_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cvhncn_autogen_timestamp_deps-Debug-f939c51736030e4809d9.json",
+					"name" : "cvhncn_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/bekir/OneDrive/Belgeler/build-cvhncn-Desktop_Qt_6_6_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/bekir/OneDrive/Belgeler/cvhncn"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

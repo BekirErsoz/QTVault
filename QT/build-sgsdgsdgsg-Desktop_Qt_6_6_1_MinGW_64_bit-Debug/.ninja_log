@@ -1,0 +1,18 @@
+# ninja log v5
+3	53	0	C:/Users/bekir/OneDrive/Belgeler/build-sgsdgsdgsg-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	39c63f0e157f5758
+2	936	7258232443052762	sgsdgsdgsg_autogen/timestamp	953c6f1c3ed7b99b
+2	936	7258232443052762	sgsdgsdgsg_autogen/mocs_compilation.cpp	953c6f1c3ed7b99b
+2	936	7258232443052762	C:/Users/bekir/OneDrive/Belgeler/build-sgsdgsdgsg-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/sgsdgsdgsg_autogen/timestamp	953c6f1c3ed7b99b
+2	936	7258232443052762	C:/Users/bekir/OneDrive/Belgeler/build-sgsdgsdgsg-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/sgsdgsdgsg_autogen/mocs_compilation.cpp	953c6f1c3ed7b99b
+948	3176	7258232466741314	CMakeFiles/sgsdgsdgsg.dir/main.cpp.obj	6628ff75124023e5
+937	4779	7258232482779806	CMakeFiles/sgsdgsdgsg.dir/sgsdgsdgsg_autogen/mocs_compilation.cpp.obj	2e19261418e0bf72
+943	4983	7258232484829017	CMakeFiles/sgsdgsdgsg.dir/mainwindow.cpp.obj	cbed9e8ed213a4cd
+2	46	0	C:/Users/bekir/OneDrive/Belgeler/build-sgsdgsdgsg-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	39c63f0e157f5758
+22	339	7258234266834690	sgsdgsdgsg_autogen/timestamp	953c6f1c3ed7b99b
+22	339	7258234266834690	sgsdgsdgsg_autogen/mocs_compilation.cpp	953c6f1c3ed7b99b
+22	339	7258234266834690	C:/Users/bekir/OneDrive/Belgeler/build-sgsdgsdgsg-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/sgsdgsdgsg_autogen/timestamp	953c6f1c3ed7b99b
+22	339	7258234266834690	C:/Users/bekir/OneDrive/Belgeler/build-sgsdgsdgsg-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/sgsdgsdgsg_autogen/mocs_compilation.cpp	953c6f1c3ed7b99b
+348	2900	7258234292411012	CMakeFiles/sgsdgsdgsg.dir/main.cpp.obj	6628ff75124023e5
+344	3948	7258234302907191	CMakeFiles/sgsdgsdgsg.dir/mainwindow.cpp.obj	cbed9e8ed213a4cd
+3949	4296	7258234306320960	sgsdgsdgsg.exe	a587ab947a347765
+3	37	0	C:/Users/bekir/OneDrive/Belgeler/build-sgsdgsdgsg-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	39c63f0e157f5758

@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-12b1148c1ddba6ce0c9e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "proje",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "proje::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-proje-Debug-4b5d3c993e5b1b554d4f.json",
+					"name" : "proje",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "proje_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-proje_autogen-Debug-c1bb40e005ffbad6f602.json",
+					"name" : "proje_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "proje_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-proje_autogen_timestamp_deps-Debug-55e646bb4ba9a4482793.json",
+					"name" : "proje_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/bekir/OneDrive/Belgeler/build-proje-Desktop_Qt_6_6_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/bekir/OneDrive/Belgeler/proje"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

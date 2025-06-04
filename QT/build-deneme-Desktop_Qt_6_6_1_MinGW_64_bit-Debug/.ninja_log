@@ -1,0 +1,15 @@
+# ninja log v5
+3	151	0	C:/Users/bekir/OneDrive/Belgeler/build-deneme-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	b79b9b1ad323d314
+2	1745	7258230634783702	deneme_autogen/timestamp	908eaa0b4765d010
+2	1745	7258230634783702	deneme_autogen/mocs_compilation.cpp	908eaa0b4765d010
+2	1745	7258230634783702	C:/Users/bekir/OneDrive/Belgeler/build-deneme-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/deneme_autogen/timestamp	908eaa0b4765d010
+2	1745	7258230634783702	C:/Users/bekir/OneDrive/Belgeler/build-deneme-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/deneme_autogen/mocs_compilation.cpp	908eaa0b4765d010
+1754	6989	7258230689894983	CMakeFiles/deneme.dir/mainwindow.cpp.obj	b068cc15bf7653bc
+1746	9221	7258230712340670	CMakeFiles/deneme.dir/deneme_autogen/mocs_compilation.cpp.obj	432471581d8d31c
+2	37	0	C:/Users/bekir/OneDrive/Belgeler/build-deneme-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	b79b9b1ad323d314
+29	245	7258231882350752	deneme_autogen/timestamp	908eaa0b4765d010
+29	245	7258231882350752	deneme_autogen/mocs_compilation.cpp	908eaa0b4765d010
+29	245	7258231882350752	C:/Users/bekir/OneDrive/Belgeler/build-deneme-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/deneme_autogen/timestamp	908eaa0b4765d010
+29	245	7258231882350752	C:/Users/bekir/OneDrive/Belgeler/build-deneme-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/deneme_autogen/mocs_compilation.cpp	908eaa0b4765d010
+255	2296	7258231902864830	CMakeFiles/deneme.dir/main.cpp.obj	9433d57e3b7b1cc3
+251	3381	7258231913706377	CMakeFiles/deneme.dir/mainwindow.cpp.obj	b068cc15bf7653bc
